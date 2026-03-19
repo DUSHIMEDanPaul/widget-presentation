@@ -35,24 +35,9 @@ Add your screenshot image to `docs/fractionally-sized-box-demo.png` and keep thi
 
 ![FractionallySizedBox demo screen](docs/fractionally-sized-box-demo.png)
 
-## Attribution Notes
-
-- Code and layout created by project author.
-- Screenshot captured from local app run by project author.
-- No third-party image assets were used in the demo UI.
-
 ## Presentation Flow
 
 1. Open the **FittedBox** tab.
 2. Change `BoxFit` mode (`contain`, `cover`, `fitWidth`, `none`) and explain behavior changes.
 3. Open the **FractionallySizedBox** tab.
 4. Move width/height sliders to show percentage-based responsive sizing.
-
-## Rubric Checklist
-
-- [ ] Repo is public.
-- [x] README includes run steps.
-- [x] README includes attribution notes.
-- [x] README includes screenshot section.
-- [ ] Commit history is meaningful (clear, task-focused commits).
-- [ ] Project/repo link posted before **5:00 PM**.
